@@ -17,7 +17,7 @@ var balancedStringSplit = function(s) {
     if(countR===countL){
         result ++
     }
-// return result
+
    } 
    return result
 };
